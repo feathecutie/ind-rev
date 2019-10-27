@@ -13,5 +13,5 @@ Struktur:
   - was
   - wann
   - wo
-  - etc
+  - etc.
 - Lebensumstände
