@@ -11,8 +11,10 @@ F3 <!-- .element: class="fragment" data-fragment-index="3" -->
 
 
 ## Third slide - 1
-Test <!-- .element: class="fragment fade-in" --> <!-- .element: class="fragment fade-out" -->
+Test <!-- .element: class="fragment fade-in" -->
+<!-- .element: class="fragment fade-out" -->
 
 
 ## Third slide - 2
-Test <!-- .element: class="fragment fade-out" --> <!-- .element: class="fragment fade-in" -->
+Test <!-- .element: class="fragment fade-out" -->
+<!-- .element: class="fragment fade-in" -->
