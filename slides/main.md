@@ -16,42 +16,11 @@
 
 ## Allgemeines
 
-### *Was* war die industrielle Revolution
-
-
-## Allgemeines
-
-#### *Was* war die industrielle Revolution
-
-
-## Allgemeines
-
-##### *Was* war die industrielle Revolution
-
-
-## Allgemeines
-
-| *Was* war die industrielle Revolution |
-|---|
-
-
-## Allgemeines
-
-*Was* war die industrielle Revolution
-
-
-## Allgemeines
-
-***Was* war die industrielle Revolution**
-
-
-## Allgemeines
-
 
 
 ## Gründe
 
-### *Warum* ist sie so verlaufen
+> *Warum* ist sie so verlaufen
 
 
 ## Gründe
@@ -60,7 +29,7 @@
 
 ## Auswirkungen
 
-### *Wie* hat sie die Gesellschaft beeinflusst/verändert
+> *Wie* hat sie die Gesellschaft beeinflusst/verändert
 
 
 ## Auswirkungen
