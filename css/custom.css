@@ -9,8 +9,8 @@
 .reveal .slides > section[data-transition=custom_trans].past,
 .reveal .slides > section[data-transition~=custom_trans-out].past,
 .reveal.custom_trans .slides > section:not([data-transition]).past {
-  -webkit-transform: translate3d(-50%, 0, 0) rotateY(90deg) translate3d(-50%, 0, 0);
-          transform: translate3d(-50%, 0, 0) rotateY(90deg) translate3d(-50%, 0, 0); }
+  -webkit-transform: translate3d(-50%, 0, 0) rotateY(20deg) translate3d(-50%, 0, 0);
+          transform: translate3d(-50%, 0, 0) rotateY(20deg) translate3d(-50%, 0, 0); }
 
 .reveal .slides > section[data-transition=custom_trans].future,
 .reveal .slides > section[data-transition~=custom_trans-in].future,
