@@ -15,3 +15,23 @@ Struktur:
   - wo
   - etc.
 - Lebensumstände
+
+Final:
++ Gliederung
+  + Allgemeines
+  + Soziale Situation
+    + Gründe
+    + "Soziale Frage"
+    + Auswirkungen
+      + auf Seiten der Arbeiter
+      + auf Seiten der Arbeitgeber
+      + auf Seiten des Staates
+  + Auswertung / Fazit
+  + Quellen
++ Allgemeines
+  + Zeit
+    + Beginne im späten 18. Jhd
+    + Hauptsächlich 19. Jhd
++ Soziale Situation
+  + Gründe
+    +
