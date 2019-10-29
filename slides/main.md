@@ -31,11 +31,6 @@
 > Wie war das Leben während der Revolution?
 
 
-## Soziale Situation
-+ Gründe
-+ "Soziale Frage"
-
-
 ## Soziale Situation <!-- .slide: data-transition="slide-in none-out" -->
 ### Gründe
 
