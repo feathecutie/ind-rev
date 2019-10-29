@@ -1,3 +1,7 @@
+# Diagram <!-- .slide: class="fig-container" data-fig-id="fig-intro" data-file="slides/diagram.html" -->
+
+
+
 # Industrielle Revolution
 > Fort- oder Rückschritt?
 
@@ -31,7 +35,7 @@
 > Wie war das Leben während der Revolution?
 
 
-## Soziale Situation <!-- .slide: data-transition="slide-in none-out" class="fig-container" data-fig-id="fig-intro" data-file="slides/diagram.html" -->
+## Soziale Situation <!-- .slide: data-transition="slide-in none-out" -->
 ### Gründe
 
 fig stuff und so
