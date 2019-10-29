@@ -10,17 +10,17 @@
 
 
 ## Allgemeines
-### *Was* war die industrielle Revolution
+#### *Was* war die industrielle Revolution
 
 
 
 ## Gründe
-### *Warum* ist sie so verlaufen
+#### *Warum* ist sie so verlaufen
 
 
 
 ## Auswirkungen
-### *Wie* hat sie die Gesellschaft beeinflusst/verändert
+#### *Wie* hat sie die Gesellschaft beeinflusst/verändert
 
 
 
