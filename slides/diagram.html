@@ -10,13 +10,16 @@
   <script>
 
     var treeData = {
-      name: 'Dampfmaschinen',
+      name: 'A',
+      //name: 'Dampfmaschinen',
       x0: window.diagram.height / 2,
       y0: 0,
       children: []
     };
 
     var _transitions = [
+      window.diagram.addItem('B', 'A', treeData),
+      /*
       window.diagram.addItem('Effizientere Produktion', 'Dampfmaschinen', treeData),
       window.diagram.addItem('Handarbeit hinfällig', 'Effizientere Produktion', treeData),
       window.diagram.addItem('Viele Menschen in Fabriken', 'Handarbeit hinfällig', treeData),
@@ -26,7 +29,7 @@
       window.diagram.addItem('Viele Arbeitsunfälle', 'Unsichere Maschinen', treeData),
       window.diagram.addItem('Lange Schichten', 'Schlechte Bezahlung', treeData),
       window.diagram.addItem('Kinderarbeit', 'Schlechte Bezahlung', treeData),
-      
+      */
     ];
     
     var _inverse_transitions = [];
