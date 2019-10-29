@@ -34,12 +34,12 @@ Struktur:
     + Beginne im späten 18. Jhd
     + Hauptsächlich 19. Jhd
 + Soziale Situation
-  + |    | Ablauf / Gründe |
-    |--- |---|
-    |    | Dampfmaschine wurde erfunden |
-    | => | Fabriken mit Dampfmaschinen entstehen |
-    | => | Fabriken sind effizienter als Handarbeit |
-    | => | Handarbeit nicht mehr konkurrenzfähig |
-    | => | Menschen ziehen als Fabrikarbeiter in Städte |
-    | => | Viel zu hohe Einwohnerzahl in Städten |
-    | => | Schlechte Wohnungssituation |
+  + |   |                                              |   |                      |   |                     |
+    |---|----------------------------------------------|---|----------------------|---|---------------------|
+    |   | Dampfmaschine wurde erfunden                 |   |                      |   |                     |
+    | ↳ | Fabriken mit Dampfmaschinen entstehen        |   |                      |   |                     |
+    | ↳ | Fabriken sind effizienter als Handarbeit     |   |                      |   |                     |
+    | ↳ | Handarbeit nicht mehr konkurrenzfähig        |   |                      |   |                     |
+    | ↳ | Menschen ziehen als Fabrikarbeiter in Städte |   |                      |   |                     |
+    | ↳ | Viel zu hohe Einwohnerzahl in Städten        |   | Unsichere Maschinen  |   | Schlechte Bezahlung |
+    | ↳ | Schlechte Wohnungssituation                  | ↳ | Viele Arbeitsunfälle | ↳ | u.A. Kinderarbeit   |
