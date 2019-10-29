@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<head>
+  <link rel="stylesheet" href="plugin/diagram/revealjs-diagram.css">
+</head>
+<body>
+  <script src="https://d3js.org/d3.v3.min.js"></script>
+  <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+  <script src="plugin/diagram/revealjs-diagram.js"></script>
+  <script>
+
+    var treeData = {
+      name: 'Dampfmaschinen',
+      x0: window.diagram.height / 2,
+      y0: 0,
+      children: []
+    };
+
+    var _transitions = [
+      window.diagram.addItem('Effizientere Produktion', 'Dampfmaschinen', treeData),
+      window.diagram.addItem('Handarbeit hinfällig', 'Effizientere Produktion', treeData),
+      window.diagram.addItem('Viele Menschen in Fabriken', 'Handarbeit hinfällig', treeData),
+      window.diagram.addItem('Zu viele Menschen in Städten', 'Viele Menschen in Fabriken', treeData),
+      window.diagram.addItem('Schlechte Wohnungssituation', 'Zu viele Menschen in Städten', treeData),
+      window.diagram.addItem('Unsichere Maschinen', 'Viele Menschen in Fabriken', treeData),
+      window.diagram.addItem('Viele Arbeitsunfälle', 'Unsichere Maschinen', treeData),
+      window.diagram.addItem('Lange Schichten', 'Schlechte Bezahlung', treeData),
+      window.diagram.addItem('Kinderarbeit', 'Schlechte Bezahlung', treeData),
+    ];
+    
+    var _inverse_transitions = [];
+
+    // register the diagram
+    window.diagram.register('ablauf', function() {
+      window.diagram.init(treeData);
+    });
+  </script>
+</body>
