@@ -34,7 +34,9 @@ Struktur:
     + Beginne im späten 18. Jhd
     + Hauptsächlich 19. Jhd
 + Soziale Situation
-  + |   |                                              |   |                      |   |                     |
+  + Ablauf / Gründe
+  
+    |   |                                              |   |                      |   |                     |
     |---|----------------------------------------------|---|----------------------|---|---------------------|
     |   | Dampfmaschine wurde erfunden                 |   |                      |   |                     |
     | ↳ | Fabriken mit Dampfmaschinen entstehen        |   |                      |   |                     |
