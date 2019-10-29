@@ -35,7 +35,7 @@
 + "Soziale Frage"
 
 
-## Soziale Situation <!-- .slide: data-transition="none-out" -->
+## Soziale Situation <!-- .slide: data-transition="slide-in none-out" -->
 ### Gründe
 
 
@@ -43,15 +43,15 @@
 ### Gründe
 
 
-## Soziale Situation <!-- .slide: data-transition="none-in" -->
+## Soziale Situation <!-- .slide: data-transition="none-in slide-out" -->
 ### Gründe
 
 
-## Soziale Situation <!-- .slide: data-transition="none-out" -->
+## Soziale Situation <!-- .slide: data-transition="slide-in none-out" -->
 ### "Soziale Frage"
 
 
-## Soziale Situation <!-- .slide: data-transition="none-in" -->
+## Soziale Situation <!-- .slide: data-transition="none-in slide-out" -->
 ### "Soziale Frage"
 
 
