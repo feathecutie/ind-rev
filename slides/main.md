@@ -31,12 +31,6 @@
 
 ## Allgemeines
 
-|---|
-| *Was* war die industrielle Revolution |
-
-
-## Allgemeines
-
 | *Was* war die industrielle Revolution |
 |---|
 
