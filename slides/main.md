@@ -18,8 +18,8 @@
 <iframe srcdoc='
 	<html>
 		<head>
-			<link rel="stylesheet" href="https://feathecutie.github.io/ind-rev/css/reveal.css">
-			<link rel="stylesheet" href="https://feathecutie.github.io/ind-rev/css/theme/white.css">
+			<link rel="stylesheet" href="css/reveal.css">
+			<link rel="stylesheet" href="css/theme/white.css">
 		</head>
 		<body>
 			<div class="reveal">
