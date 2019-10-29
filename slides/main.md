@@ -1,4 +1,4 @@
-# Diagram <!-- .slide: class="fig-container" data-fig-id="fig-intro" data-file="slides/diagram.html" -->
+# Diagram <!-- .slide: class="fig-container" data-fig-id="fig-intro" data-file="slides/intro.html" -->
 
 
 
