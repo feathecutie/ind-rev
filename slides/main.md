@@ -2,11 +2,25 @@
 
 
 
-# Gliederung
+## Gliederung
 + Allgemeines
-+ Gründe für den Verlauf der Revolution
-+ 
++ Gründe
++ Auswirkungen
 
 
 
-# Allgemeines
+## Allgemeines
+### *Was* war die industrielle Revolution
+
+
+
+## Gründe
+### *Warum* ist sie so verlaufen
+
+
+
+## Auswirkungen
+### *Wie* hat sie die Gesellschaft beeinflusst/verändert
+
+
+
