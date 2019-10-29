@@ -21,11 +21,11 @@
 .reveal .slides > section > section[data-transition=custom_trans].past,
 .reveal .slides > section > section[data-transition~=custom_trans-out].past,
 .reveal.custom_trans .slides > section > section:not([data-transition]).past {
-  -webkit-transform: translate3d(0, -80%, 0) rotateX(-70deg) translate3d(0, -80%, 0);
-          transform: translate3d(0, -80%, 0) rotateX(-70deg) translate3d(0, -80%, 0); }
+  -webkit-transform: translate3d(0, -80%, 0) rotateX(-10deg) translate3d(0, -80%, 0);
+          transform: translate3d(0, -80%, 0) rotateX(-10deg) translate3d(0, -80%, 0); }
 
 .reveal .slides > section > section[data-transition=custom_trans].future,
 .reveal .slides > section > section[data-transition~=custom_trans-in].future,
 .reveal.custom_trans .slides > section > section:not([data-transition]).future {
-  -webkit-transform: translate3d(0, 80%, 0) rotateX(70deg) translate3d(0, 80%, 0);
-          transform: translate3d(0, 80%, 0) rotateX(70deg) translate3d(0, 80%, 0); }
+  -webkit-transform: translate3d(0, 80%, 0) rotateX(10deg) translate3d(0, 80%, 0);
+          transform: translate3d(0, 80%, 0) rotateX(10deg) translate3d(0, 80%, 0); }
