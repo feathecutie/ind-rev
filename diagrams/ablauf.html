@@ -28,7 +28,17 @@
       window.diagram.addItem('Kinderarbeit', 'Schlechte Bezahlung', treeData),
     ];
     
-    var _inverse_transitions = [];
+    var _inverse_transitions = [
+      window.diagram.removeItem('Effizientere Produktion', 'Dampfmaschinen', treeData),
+      window.diagram.removeItem('Handarbeit hinfällig', 'Effizientere Produktion', treeData),
+      window.diagram.removeItem('Viele Menschen in Fabriken', 'Handarbeit hinfällig', treeData),
+      window.diagram.removeItem('Zu viele Menschen in Städten', 'Viele Menschen in Fabriken', treeData),
+      window.diagram.removeItem('Schlechte Wohnungssituation', 'Zu viele Menschen in Städten', treeData),
+      window.diagram.removeItem('Unsichere Maschinen', 'Viele Menschen in Fabriken', treeData),
+      window.diagram.removeItem('Viele Arbeitsunfälle', 'Unsichere Maschinen', treeData),
+      window.diagram.removeItem('Lange Schichten', 'Schlechte Bezahlung', treeData),
+      window.diagram.removeItem('Kinderarbeit', 'Schlechte Bezahlung', treeData),
+    ];
 
     // register the diagram
     window.diagram.register('ablauf', function() {
