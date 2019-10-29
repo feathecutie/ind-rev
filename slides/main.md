@@ -10,7 +10,7 @@
 
 
 ## Allgemeines
-
+<!-- .slide: data-background="#000000" -->
 > *Was* war die industrielle Revolution
 
 
