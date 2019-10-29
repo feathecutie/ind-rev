@@ -11,7 +11,7 @@
 
 ## Allgemeines
 
-### *Was* war die industrielle Revolution
+> *Was* war die industrielle Revolution
 
 
 ## Allgemeines
@@ -20,7 +20,7 @@
 
 ## Gründe
 
-### *Warum* ist sie so verlaufen
+=> *Warum* ist sie so verlaufen
 
 
 ## Gründe
