@@ -39,6 +39,10 @@
 ### Gründe
 
 
+## Soziale Situation <!-- .slide: data-transition="none" -->
+### Gründe
+
+
 ## Soziale Situation <!-- .slide: data-transition="none-in" -->
 ### Gründe
 
