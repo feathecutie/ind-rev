@@ -32,7 +32,7 @@
 ## Allgemeines
 
 |---|
-| *Was* war die industrielle Revolution|
+| *Was* war die industrielle Revolution |
 
 
 ## Allgemeines
