@@ -22,7 +22,7 @@
 + Zeit:
   + Beginne im späten 18. Jhd
   + Verstärkt 19. Jhd
- 
+
 
 
 ## Soziale Situation
