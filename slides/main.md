@@ -1,61 +1,51 @@
 # Industrielle Revolution
+## Fort- oder Rückschritt?
 
 
 
 ## Gliederung
 + Allgemeines
++ Soziale Situation
+  + Gründe
+  + "Soziale Frage"
++ Auswertung / Fazit
+
+
+
+## Allgemeines
+
+> Was war die industrielle Revolution?
+
+
+## Allgemeines
+
++ Zeit:
+  + Beginne im späten 18. Jhd
+  + Verstärkt 19. Jhd
+ 
+
+## Soziale Situation
+
+> Wie war das Leben während der Revolution?
+
+
+## Soziale Situation
 + Gründe
-+ Auswirkungen
++ "Soziale Frage"
+
+
+## Soziale Situation 
+### Gründe
+
+
+## Soziale Situation <!-- .slide: data-transition="none" -->
+### Gründe
+
+
+## Soziale Situation
+### "Soziale Frage"
 
 
 
-## Allgemeines
-
-> *Was* war die industrielle Revolution
 
 
-## Allgemeines
-<iframe srcdoc='
-	<html>
-		<head>
-			<link rel="stylesheet" href="css/reveal.css">
-			<link rel="stylesheet" href="css/theme/white.css">
-		</head>
-		<body>
-			<div class="reveal">
-				<div class="slides">
-					<section>Slide 1</section>
-					<section>
-						Slide 2
-						 <button onclick="window.parent.focus()">Click me</button> 
-					</section>
-				</div>
-			</div>
-			<script src="js/reveal.js"></script>
-			<script>
-				Reveal.initialize();
-			</script>
-		</body>
-	</html>
-'></iframe>
-
-
-## Allgemeines
-
-
-
-## Gründe
-
-> *Warum* ist sie so verlaufen
-
-
-## Gründe
-
-
-
-## Auswirkungen
-
-> *Wie* hat sie die Gesellschaft beeinflusst/verändert
-
-
-## Auswirkungen
