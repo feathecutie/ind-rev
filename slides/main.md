@@ -9,6 +9,7 @@
   + Gründe
   + "Soziale Frage"
 + Auswertung / Fazit
++ Quellen
 
 
 
@@ -56,3 +57,8 @@
 
 
 
+## Auswertung / Fazit
+
+
+
+## Quellen
