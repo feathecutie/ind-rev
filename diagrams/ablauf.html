@@ -20,24 +20,32 @@
       window.diagram.addItem('Effizientere Produktion', 'Dampfmaschinen', treeData),
       window.diagram.addItem('Handarbeit hinfällig', 'Effizientere Produktion', treeData),
       window.diagram.addItem('Viele Menschen in Fabriken', 'Handarbeit hinfällig', treeData),
-      window.diagram.addItem('Zu viele Menschen in Städten', 'Viele Menschen in Fabriken', treeData),
+      
+      window.diagram.addItem('Zu viele Menschen in Städten', 'Viele Menschen in Fabriken', treeData), 
       window.diagram.addItem('Schlechte Wohnungssituation', 'Zu viele Menschen in Städten', treeData),
+      
       window.diagram.addItem('Unsichere Maschinen', 'Viele Menschen in Fabriken', treeData),
       window.diagram.addItem('Viele Arbeitsunfälle', 'Unsichere Maschinen', treeData),
+      
+      window.diagram.addItem('Schlechte Bezahlung', 'Viele Menschen in Fabriken', treeData),
       window.diagram.addItem('Lange Schichten', 'Schlechte Bezahlung', treeData),
       window.diagram.addItem('Kinderarbeit', 'Schlechte Bezahlung', treeData),
     ];
     
     var _inverse_transitions = [
-      window.diagram.removeItem('Effizientere Produktion', 'Dampfmaschinen', treeData),
-      window.diagram.removeItem('Handarbeit hinfällig', 'Effizientere Produktion', treeData),
-      window.diagram.removeItem('Viele Menschen in Fabriken', 'Handarbeit hinfällig', treeData),
-      window.diagram.removeItem('Zu viele Menschen in Städten', 'Viele Menschen in Fabriken', treeData),
-      window.diagram.removeItem('Schlechte Wohnungssituation', 'Zu viele Menschen in Städten', treeData),
-      window.diagram.removeItem('Unsichere Maschinen', 'Viele Menschen in Fabriken', treeData),
-      window.diagram.removeItem('Viele Arbeitsunfälle', 'Unsichere Maschinen', treeData),
-      window.diagram.removeItem('Lange Schichten', 'Schlechte Bezahlung', treeData),
-      window.diagram.removeItem('Kinderarbeit', 'Schlechte Bezahlung', treeData),
+      window.diagram.removeItem('Effizientere Produktion', treeData),
+      window.diagram.removeItem('Handarbeit hinfällig', treeData),
+      window.diagram.removeItem('Viele Menschen in Fabriken', treeData),
+      
+      window.diagram.removeItem('Zu viele Menschen in Städten', treeData),
+      window.diagram.removeItem('Schlechte Wohnungssituation', treeData),
+      
+      window.diagram.removeItem('Unsichere Maschinen', treeData),
+      window.diagram.removeItem('Viele Arbeitsunfälle', treeData),
+      
+      window.diagram.removeItem('Schlechte Bezahlung', treeData),
+      window.diagram.removeItem('Lange Schichten', treeData),
+      window.diagram.removeItem('Kinderarbeit', treeData),
     ];
 
     // register the diagram
