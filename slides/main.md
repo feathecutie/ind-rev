@@ -1,9 +1,4 @@
 # Industrielle Revolution
-> FORT- ODER RÜCKSCHRITT?
-
-
-
-# Industrielle Revolution
 > Fort- oder Rückschritt?
 
 
