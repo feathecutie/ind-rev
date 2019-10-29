@@ -25,7 +25,10 @@
 			<div class="reveal">
 				<div class="slides">
 					<section>Slide 1</section>
-					<section>Slide 2</section>
+					<section>
+						Slide 2
+						 <button onclick="window.parent.focus()">Click me</button> 
+					</section>
 				</div>
 			</div>
 			<script src="js/reveal.js"></script>
