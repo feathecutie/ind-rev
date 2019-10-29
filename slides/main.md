@@ -9,9 +9,12 @@
 
 
 
-## Allgemeines
-<!-- .slide: data-background="#000000" -->
+## Allgemeines <!-- .slide: data-background="#000000" data-transition="concave" -->
+
 > *Was* war die industrielle Revolution
+
+
+## Allgemeines <!-- .slide: data-transition="concave" -->
 
 
 ## Allgemeines
