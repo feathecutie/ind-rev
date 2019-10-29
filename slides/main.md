@@ -29,6 +29,7 @@
   + Verstärkt 19. Jhd
  
 
+
 ## Soziale Situation
 
 > Wie war das Leben während der Revolution?
@@ -39,18 +40,20 @@
 + "Soziale Frage"
 
 
-## Soziale Situation 
+## Soziale Situation <!-- .slide: data-transition="none-out" -->
 ### Gründe
 
 
-## Soziale Situation <!-- .slide: data-transition="none" -->
+## Soziale Situation <!-- .slide: data-transition="none-in" -->
 ### Gründe
 
 
-## Soziale Situation
+## Soziale Situation <!-- .slide: data-transition="none-out" -->
 ### "Soziale Frage"
 
 
+## Soziale Situation <!-- .slide: data-transition="none-in" -->
+### "Soziale Frage"
 
 
 
