@@ -39,8 +39,6 @@
 ## Soziale Situation <!-- .slide: data-transition="slide-in none-out" -->
 ### Gründe
 
-fig stuff und so
-
 
 ## Soziale Situation <!-- .slide: data-transition="none" -->
 ### Gründe
