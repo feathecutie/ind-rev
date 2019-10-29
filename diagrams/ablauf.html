@@ -17,14 +17,11 @@
     };
 
     var _transitions = [
-      window.diagram.addItem('Effizientere Produktion', 'Dampfmaschinen', treeData),
+      window.diagram.addItem('Effizientere\nProduktion', 'Dampfmaschinen', treeData),
       window.diagram.addItem('Handarbeit hinfällig', 'Effizientere Produktion', treeData),
       window.diagram.addItem('Viele Menschen in Fabriken', 'Handarbeit hinfällig', treeData),
       
-      window.diagram.removeItem('Dampfmaschinen', treeData),
-      
       window.diagram.addItem('Zu viele Menschen in Städten', 'Viele Menschen in Fabriken', treeData),
-      window.diagram.removeItem('Effizientere Produktion', treeData),
       window.diagram.addItem('Schlechte Wohnungssituation ._.', 'Zu viele Menschen in Städten', treeData),
       
       window.diagram.addItem('Unsichere Maschinen', 'Viele Menschen in Fabriken', treeData),
