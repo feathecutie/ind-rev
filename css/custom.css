@@ -1,6 +1,14 @@
+/*
 .reveal .slides section .fragment.appear {
   -webkit-transform: scaleX(0);
           transform: scaleX(0); }
   .reveal .slides section .fragment.appear.visible {
     -webkit-transform: scaleX(1);
             transform: scaleX(1); }
+*/
+
+.reveal .slides section .fragment.appear {
+  height: 0px;
+  visibility: inherit; }
+  .reveal .slides section .fragment.appear.visible {
+    height: auto; }
