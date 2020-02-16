@@ -1,8 +1,3 @@
-# Diagram
-<!-- .slide: class="fig-container" data-fig-id="fig-intro" data-file="diagrams/ablauf.html" -->
-
-
-
 # Industrielle Revolution
 > Fort- oder Rückschritt?
 
@@ -16,6 +11,12 @@
 + Auswertung / Fazit
 + Quellen
 
+
+
+# Test
++ test1 <!-- .element: class="fragment appear" -->
++ test2 <!-- .element: class="fragment appear" -->
++ test3 <!-- .element: class="fragment appear" -->
 
 
 ## Allgemeines
