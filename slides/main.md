@@ -14,9 +14,10 @@
 
 
 # Test
-+ test1 <!-- .element: class="fragment appear" -->
++ test1 <!-- .element: class="fragment fade-down" -->
 + test2 <!-- .element: class="fragment appear" -->
-+ test3 <!-- .element: class="fragment appear" -->
++ test3 <!-- .element: class="fragment fade-down" -->
++ test4 <!-- .element: class="fragment appear" -->
 
 
 ## Allgemeines
