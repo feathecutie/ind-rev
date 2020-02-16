@@ -9,7 +9,8 @@
 
 .reveal .slides section .fragment.appear {
   height: 0px;
-  visibility: inherit;
+  visibility: hidden;
   transition: height 2s; }
   .reveal .slides section .fragment.appear.visible {
-    height: auto; }
+    height: auto;
+    visibility: inherit; }
