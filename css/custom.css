@@ -1,36 +1,7 @@
-:root {
-  --y-rot: 30deg;
-  --x-rot: 30deg;
-}
-
-/*********************************************
- * CUSTOM_TRANS TRANSITION
- *********************************************/
-.reveal .slides section[data-transition=custom_trans].stack,
-.reveal.custom_trans .slides section.stack {
-  -webkit-transform-style: preserve-3d;
-          transform-style: preserve-3d; }
-
-.reveal .slides > section[data-transition=custom_trans].past,
-.reveal .slides > section[data-transition~=custom_trans-out].past,
-.reveal.custom_trans .slides > section:not([data-transition]).past {
-  -webkit-transform: translate3d(-80%, 0, 0) rotateY(var(--y-rot)) translate3d(-80%, 0, 0);
-          transform: translate3d(-80%, 0, 0) rotateY(var(--y-rot)) translate3d(-80%, 0, 0); }
-
-.reveal .slides > section[data-transition=custom_trans].future,
-.reveal .slides > section[data-transition~=custom_trans-in].future,
-.reveal.custom_trans .slides > section:not([data-transition]).future {
-  -webkit-transform: translate3d(80%, 0, 0) rotateY(var(--y-rot)) translate3d(80%, 0, 0);
-          transform: translate3d(80%, 0, 0) rotateY(var(--y-rot)) translate3d(80%, 0, 0); }
-
-.reveal .slides > section > section[data-transition=custom_trans].past,
-.reveal .slides > section > section[data-transition~=custom_trans-out].past,
-.reveal.custom_trans .slides > section > section:not([data-transition]).past {
-  -webkit-transform: translate3d(0, -80%, 0) rotateX(var(--x-rot)) translate3d(0, -80%, 0);
-          transform: translate3d(0, -80%, 0) rotateX(var(--x-rot)) translate3d(0, -80%, 0); }
-
-.reveal .slides > section > section[data-transition=custom_trans].future,
-.reveal .slides > section > section[data-transition~=custom_trans-in].future,
-.reveal.custom_trans .slides > section > section:not([data-transition]).future {
-  -webkit-transform: translate3d(0, 80%, 0) rotateX(var(--x-rot)) translate3d(0, 80%, 0);
-          transform: translate3d(0, 80%, 0) rotateX(var(--x-rot)) translate3d(0, 80%, 0); }
+.reveal .slides section .fragment.appear {
+  visibility: hidden;
+  -webkit-transform: scaleX(0);
+          transform: scaleX(0); }
+  .reveal .slides section .fragment.appear.visible {
+    -webkit-transform: scaleX(1);
+            transform: scaleX(1); }
