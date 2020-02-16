@@ -19,7 +19,7 @@
 + test3 <!-- .element: class="fragment appear" -->
 + test4 <!-- .element: class="fragment appear" -->
 
-blablazeugs
+blablazeugs <!-- .element: class="test" -->
 
 
 ## Allgemeines
