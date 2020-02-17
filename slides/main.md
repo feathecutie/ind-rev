@@ -106,6 +106,12 @@
 
 ### Auswirkungen auf heute:
 
++ immernoch starke Verschmutzung
+
++ aber: viel daraus gelernt
+
+  + immer mehr Umweltschutzprogramme
+
 
 
 # Fazit
