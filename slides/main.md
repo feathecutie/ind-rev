@@ -86,8 +86,6 @@
 
 ### Folgen
 
-> Bsp. Deutschland
-
 + Staat versucht gegen schlechte Situation vorzugehen
 
 + Sozialversicherungen
