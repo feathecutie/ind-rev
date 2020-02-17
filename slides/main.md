@@ -58,6 +58,8 @@
 
 + Sozialversicherungen
 
+  <span class="fragment appear">
+
   + Krankenversicherung
   
   + Unfallversicherung
@@ -65,6 +67,8 @@
   + Invaliditätsversicherung
   
   + Alterssicherung
+  
+  </span>
 
 
 ## Soziale Auswirkungen
@@ -110,7 +114,7 @@
 
 + aber: viel daraus gelernt
 
-  + immer mehr Umweltschutzprogramme
+  + immer mehr Umweltschutzprogramme <!-- .element: class="fragment appear" -->
 
 
 
