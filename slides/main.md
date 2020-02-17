@@ -16,17 +16,25 @@
 
 + Soziales
 
+  <span class="fragment appear">
+
   + Situation
 
   + Folgen
 
   + Auswirkungen auf heute
+
+  </span>
   
 + Umwelt
 
+  <span class="fragment appear">
+
   + Situation
 
-  + Auswirkungen auf heute 
+  + Auswirkungen auf heute
+
+  </span>
   
 + Technik
   
