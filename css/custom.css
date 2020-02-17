@@ -36,3 +36,9 @@ h2 {
   text-decoration: underline dashed;
   text-underline-offset: 3px;
 }
+
+
+a {
+ color: white;
+ text-decoration: none;
+}
