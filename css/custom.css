@@ -10,7 +10,7 @@
     -webkit-transform: scaleX(1);
             transform: scaleX(1); }
 */
-
+/*
 .reveal .slides section .fragment.appear {
   height: 0px;
   visibility: hidden;
@@ -18,6 +18,14 @@
   .reveal .slides section .fragment.appear.visible {
     height: auto;
     visibility: inherit; }
+*/
+.reveal .slides section .fragment.appear {
+  max-height: 0px;
+  overflow: hidden;
+  transition: max-height 2s; }
+  .reveal .slides section .fragment.appear.current-fragment {
+    max-height: 1000px;
+    transition: max-height 2s; }
 
 .backgrounds {
   filter: blur(5px) opacity(50%) saturate(30%) brightness(100%) contrast(50%);
