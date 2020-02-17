@@ -1,4 +1,5 @@
 # Industrielle Revolution
+
 > Fort- oder Rückschritt?
 
 
@@ -7,9 +8,13 @@
 
 
 + Auswirkungen
+
   + sozial
+  
   + Umwelt
+  
 + Fazit
+
 + Quellen
 
 
@@ -18,10 +23,8 @@
 
 
 ## Soziale Auswirkungen
-+ in direkt betroffenen Ländern
-  + auf "normale" Bürger
-    > "Proletariat"
-    + Arbeiter
+
+> Soziale Frage
 
 
 ## Auswirkungen auf die Umwelt
