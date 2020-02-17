@@ -14,3 +14,7 @@
   .reveal .slides section .fragment.appear.visible {
     height: auto;
     visibility: inherit; }
+
+.backgrounds {
+  blur(20px) opacity(50%);
+}
