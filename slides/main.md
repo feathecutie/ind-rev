@@ -18,7 +18,10 @@
 
 
 ## Soziale Auswirkungen
-
++ in direkt betroffenen Ländern
+  + auf "normale" Bürger
+    > "Proletariat"
+    + Arbeiter
 
 ## Auswirkungen auf die Umwelt
 
