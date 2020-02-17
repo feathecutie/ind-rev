@@ -83,12 +83,17 @@
 
 + starke Verschmutzungen / Verunreinigungen
 
+<span class="fragment appear">
+  
   + Luftverschmutzung durch Dampfmaschinen <!-- .element: class="fragment appear" data-fragment-index="1" -->
   
   + Wasserverschmutzung durch Abwässer <!-- .element: class="fragment appear" data-fragment-index="1" -->
 
+</span>
+
 + Resourcen
-<span class="fragment fade-in">
+
+<span class="fragment appear">
   
   + Erzabbau von Eisen für Maschinen
   
