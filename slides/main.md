@@ -7,24 +7,29 @@
 
 
 + Auswirkungen
-  + in industriellen Ländern
-    + Lebensumstände / Soziale Frage
-    + Umwelt
-  + in Kolonien
-    + Sklaven
+  + sozial
+  + Umwelt
 + Fazit
 + Quellen
 
 
 
-## Auswirkungen
+# Auswirkungen
 
 
-### Auswirkungen in industriellen Ländern
-+ Lebensumstände / Soziale Frage
-  + Strukturwandel Agrargesellschaft -> Industriegesellschaft
-    
-+ Umwelt
+## Soziale Auswirkungen
 
-## Auswirkungen in Kolonien
-+ stark steigender Bedarf an Rohstoffen
+
+## Auswirkungen auf die Umwelt
+
+
+
+# Fazit
+
+
+
+# Quellen
++ Informationen:
+  +
++ Bilder:
+  + https://upload.wikimedia.org/wikipedia/commons/b/b7/Wyld%2C_William_-_Manchester_from_Kersal_Moor%2C_with_rustic_figures_and_goats_-_Google_Art_Project.jpg
