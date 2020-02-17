@@ -107,7 +107,7 @@
 
   </span>
 
-+ Resourcen
++ Ressourcen
 
   <span class="fragment appear">
   
