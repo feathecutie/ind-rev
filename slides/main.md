@@ -37,6 +37,14 @@
   </span>
   
 + Technik
+
+  <span class="fragment appear">
+
+  + Situation
+
+  + Auswirkungen auf heute
+
+  </span>
   
 + Fazit
 
