@@ -34,4 +34,5 @@
 
 h2 {
   text-decoration: underline dashed;
+  text-underline-offset: 3px;
 }
