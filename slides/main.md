@@ -33,19 +33,31 @@
 
 + sehr schlechte Lebensumstände der Arbeiter
 
-  + sehr wenig Lohn
-  
+  + sehr wenig Lohn <!-- .element: class="fragment" -->
+    
+    <span class="fragment appear">
+    
     + Kinderarbeit nötig
     
-  + schlechte Wohnungssituation
+    </span>
+    
+  + schlechte Wohnungssituation <!-- .element: class="fragment" -->
   
+    <span class="fragment appear">
+    
     + mehrere Familien im gleichen Zimmer
     
-  + schlechte Arbeitsumstände
+    </span>
+    
+  + schlechte Arbeitsumstände <!-- .element: class="fragment" -->
+  
+    <span class="fragment appear">
   
     + gefährlich
     
     + keine Absicherungen
+    
+    </span>
 
 
 ## Soziale Auswirkungen
@@ -108,31 +120,13 @@
 
 ## Auswirkungen auf die Umwelt
 
-### Situation:
-
-+ starke Verschmutzungen / Verunreinigungen
-  
-  + Luftverschmutzung durch Dampfmaschinen <!-- .element: class="fragment appear" data-fragment-index="1" -->
-  
-  + Wasserverschmutzung durch Abwässer <!-- .element: class="fragment appear" data-fragment-index="1" -->
-
-+ Resourcen
-  
-  + Erzabbau von Eisen für Maschinen <!-- .element: class="fragment appear" data-fragment-index="2" -->
-  
-  + Plantagen für Textilindustrie <!-- .element: class="fragment appear" data-fragment-index="2" -->
-
-
-
-## Auswirkungen auf die Umwelt
-
 ### Auswirkungen auf heute:
 
 + immernoch starke Verschmutzung
 
 + aber: viel daraus gelernt
 
-  + immer mehr Umweltschutzprogramme <!-- .element: class="fragment appear" -->
+  + immer mehr Umweltschutzprogramme
 
 
 
