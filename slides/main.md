@@ -92,7 +92,6 @@
 + Versicherungen
 
 
-
 ## Auswirkungen auf die Umwelt
 
 ### Situation:
@@ -141,6 +140,7 @@ Note:
   + technische Neuerungen
   + Sozialgesetzebung
   + viel daraus gelernt (auch für Umwelt)
+
 
 
 # Quellen
