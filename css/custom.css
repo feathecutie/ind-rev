@@ -30,3 +30,8 @@
 .backgrounds {
   filter: blur(5px) opacity(50%) saturate(30%) brightness(100%) contrast(50%);
 }
+
+
+h2 {
+  text-decoration: underline dashed;
+}
