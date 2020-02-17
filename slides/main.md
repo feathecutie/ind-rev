@@ -4,65 +4,27 @@
 
 
 ## Gliederung
-+ Allgemeines
-+ Soziale Situation
-  + Gründe
-  + "Soziale Frage"
-+ Auswertung / Fazit
+
+
++ Auswirkungen
+  + in industriellen Ländern
+    + Lebensumstände / Soziale Frage
+    + Umwelt
+  + in Kolonien
+    + Sklaven
++ Fazit
 + Quellen
 
 
 
-# Test
-+ test1 <!-- .element: class="fragment appear" -->
-+ test2 <!-- .element: class="fragment appear" -->
-+ test3 <!-- .element: class="fragment appear" -->
-+ test4 <!-- .element: class="fragment appear" -->
-
-blablazeugs <!-- .element: class="test" -->
+## Auswirkungen
 
 
-## Allgemeines
+### Auswirkungen in industriellen Ländern
++ Lebensumstände / Soziale Frage
+  + Strukturwandel Agrargesellschaft -> Industriegesellschaft
+    
++ Umwelt
 
-> Was war die industrielle Revolution?
-
-
-## Allgemeines
-
-+ Zeit:
-  + Beginne im späten 18. Jhd
-  + Verstärkt 19. Jhd
-
-
-
-## Soziale Situation
-
-> Wie war das Leben während der Revolution?
-
-
-## Soziale Situation <!-- .slide: data-transition="slide-in none-out" -->
-### Gründe
-
-
-## Soziale Situation <!-- .slide: data-transition="none" -->
-### Gründe
-
-
-## Soziale Situation <!-- .slide: data-transition="none-in slide-out" -->
-### Gründe
-
-
-## Soziale Situation <!-- .slide: data-transition="slide-in none-out" -->
-### "Soziale Frage"
-
-
-## Soziale Situation <!-- .slide: data-transition="none-in slide-out" -->
-### "Soziale Frage"
-
-
-
-## Auswertung / Fazit
-
-
-
-## Quellen
+## Auswirkungen in Kolonien
++ stark steigender Bedarf an Rohstoffen
