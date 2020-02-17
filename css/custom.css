@@ -1,3 +1,7 @@
+* {
+ font-size: 90%;
+}
+
 /*
 .reveal .slides section .fragment.appear {
   -webkit-transform: scaleX(0);
