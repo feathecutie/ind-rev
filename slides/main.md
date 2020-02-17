@@ -103,7 +103,25 @@
   
   + Plantagen für Textilindustrie
 
-  </span>
+  </span>  
+
+
+## Auswirkungen auf die Umwelt
+
+### Situation:
+
++ starke Verschmutzungen / Verunreinigungen
+  
+  + Luftverschmutzung durch Dampfmaschinen <!-- .element: class="fragment appear" data-fragment-index="1" -->
+  
+  + Wasserverschmutzung durch Abwässer <!-- .element: class="fragment appear" data-fragment-index="1" -->
+
++ Resourcen
+  
+  + Erzabbau von Eisen für Maschinen <!-- .element: class="fragment appear" data-fragment-index="2" -->
+  
+  + Plantagen für Textilindustrie <!-- .element: class="fragment appear" data-fragment-index="2" -->
+
 
 
 ## Auswirkungen auf die Umwelt
