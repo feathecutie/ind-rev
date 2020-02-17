@@ -147,14 +147,25 @@ Note:
 
 + Informationen:
 
-  + Bücher:
+  + Literatur:
   
     + Geo Epoche Nr. 11 - "Amerikas Weg zur Weltmacht", Gruner + Jahr AG & Co KG, 2003
     
     + Geo Epoche Nr. 12 - "Deutschland um 1900", Gruner + Jahr AG & Co KG, 2004
     
     + Geo Epoche Nr. 52 - "Otto von Bismarck", Gruner + Jahr AG & Co KG, 2011
+    
+    +	Klaus-Jürgen Bremm: Das Zeitalter der Industrialisierung, Theiss-Verlag, 2014
+    
+    +	Dieter Ziegler: Die Industrielle Revolution, WBG-Verlag, 2012
+    
+  + Internet:
   
+    +	https://www.bpb.de/geschichte/deutsche-geschichte/kaiserreich/139649/industrialisierung-und-moderne-gesellschaft, letzter Zugriff: 15.02.2020
+    + https://www.planet-schule.de/wissenspool/das-industriezeitalter/inhalt/sendungen/soziale-frage.html, letzter Zugriff: 15.02.2020
+    +	https://www.planet-wissen.de/gesellschaft/wirtschaft/industrialisierung_in_deutschland/index.html, letzter Zugriff: 02.02.2020
+    +	https://blog.zeit.de/schueler/2014/01/23/industrialisierung-geschichte-revolution, letzter Zugriff: 02.02.2020
+
 + Bilder:
 
   + https://upload.wikimedia.org/wikipedia/commons/b/b7/Wyld%2C_William_-_Manchester_from_Kersal_Moor%2C_with_rustic_figures_and_goats_-_Google_Art_Project.jpg
