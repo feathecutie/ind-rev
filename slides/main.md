@@ -12,11 +12,23 @@
 # Gliederung
 
 
-+ Auswirkungen
+## Gliederung
 
-  + sozial
++ Soziales
+
+  + Situation
+
+  + Folgen
+
+  + Auswirkungen auf heute
   
-  + Umwelt
++ Umwelt
+
+  + Situation
+
+  + Auswirkungen auf heute 
+  
++ Technik
   
 + Fazit
 
@@ -24,17 +36,14 @@
 
 
 
-# Auswirkungen
+# Soziales
+
+> Soziale Frage
 
 
-## Soziale Auswirkungen
+## Soziales
 
-> "Soziale Frage"
-
-
-## Soziale Auswirkungen
-
-### Situation:
+### Situation
 
 + sehr schlechte Lebensumstände der Arbeiter
 
@@ -65,9 +74,9 @@
     </span>
 
 
-## Soziale Auswirkungen
+## Soziales
 
-### Folgen:
+### Folgen
 
 > Bsp. Deutschland
 
@@ -88,21 +97,22 @@
   </span>
 
 
-## Soziale Auswirkungen
+## Soziales
 
-### Auswirkungen auf heute:
+### Auswirkungen auf heute
 
 + Sozialstaat
 
 + Versicherungen
 
 
-  
+
+# Umwelt
 
 
-## Auswirkungen auf die Umwelt
+## Umwelt
 
-### Situation:
+### Situation
 
 + starke Verschmutzungen / Verunreinigungen
 
@@ -125,15 +135,19 @@
   </span>  
 
 
-## Auswirkungen auf die Umwelt
+## Umwelt
 
-### Auswirkungen auf heute:
+### Auswirkungen auf heute
 
 + immernoch starke Verschmutzung
 
 + aber: viel daraus gelernt
 
   + immer mehr Umweltschutzprogramme
+
+
+
+# Technik
 
 
 
@@ -152,6 +166,9 @@ Note:
 
 
 # Quellen
+
+
+## Quellen
 
 + Informationen:
 
