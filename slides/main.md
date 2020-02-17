@@ -83,7 +83,15 @@
 
 + starke Verschmutzungen / Verunreinigungen
 
-  + Luftverschmutzung durch Kohleverbrennung in Dampfmaschinen
+  + Luftverschmutzung durch Dampfmaschinen <!-- .element: class="fragment appear" data-fragment-index="1" -->
+  
+  + Wasserverschmutzung durch Abwässer <!-- .element: class="fragment appear" data-fragment-index="1" -->
+
++ Resourcen
+
+  + Erzabbau von Eisen für Maschinen
+  
+  + Plantagen für Textilindustrie
 
 
 ## Auswirkungen auf die Umwelt
