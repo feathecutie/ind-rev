@@ -19,11 +19,11 @@
     height: auto;
     visibility: inherit; }
 */
-.reveal .slides section .fragment.appear {
+.reveal .slides section .fragment.appear * {
   max-height: 0px;
   overflow: hidden;
   transition: max-height 2s; }
-  .reveal .slides section .fragment.appear.current-fragment {
+  .reveal .slides section .fragment.appear.current-fragment * {
     max-height: 1000px;
     transition: max-height 2s; }
 
