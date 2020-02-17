@@ -109,7 +109,16 @@
 
 
 # Fazit
-
+Note:
++ kurzfristige Sicht:
+  + sehr sehr negativ
+  + nur kleine Bevölkerungsgruppe profitiert
++ langfristige Sicht:
+  + sehr positiv
+  + viele Reformen
+  + technische Neuerungen
+  + Sozialgesetzebung
+  + viel daraus gelernt (auch für Umwelt)
 
 
 # Quellen
