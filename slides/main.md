@@ -100,9 +100,9 @@
 
   <span class="fragment appear">
 
-  |---|---|
   | Krankenversicherung | Unfallversicherung |
   | Invaliditätsversicherung | Alterssicherung |
+  |---|---|
   
   </span>
 
