@@ -23,6 +23,7 @@
     > "Proletariat"
     + Arbeiter
 
+
 ## Auswirkungen auf die Umwelt
 
 
