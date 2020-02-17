@@ -147,7 +147,13 @@ Note:
 
 + Informationen:
 
-  + bla
+  + Bücher:
+  
+    + Geo Epoche Nr. 11 - "Amerikas Weg zur Weltmacht", Gruner + Jahr AG & Co KG, 2003
+    
+    + Geo Epoche Nr. 12 - "Deutschland um 1900", Gruner + Jahr AG & Co KG, 2004
+    
+    + Geo Epoche Nr. 52 - "Otto von Bismarck", Gruner + Jahr AG & Co KG, 2011
   
 + Bilder:
 
