@@ -16,5 +16,5 @@
     visibility: inherit; }
 
 .backgrounds {
-  filter: blur(5px) opacity(100%) saturate(30%) brightness(100%) contrast(50%);
+  filter: blur(5px) opacity(50%) saturate(30%) brightness(100%) contrast(50%);
 }
