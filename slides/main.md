@@ -89,9 +89,11 @@
 
 + Resourcen
 <span class="fragment fade-in">
+  
   + Erzabbau von Eisen für Maschinen
   
   + Plantagen für Textilindustrie
+
 </span>
 
 
