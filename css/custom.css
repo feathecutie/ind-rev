@@ -22,10 +22,10 @@
 .reveal .slides section .fragment.appear * {
   max-height: 0px;
   overflow: hidden;
-  transition: max-height 2s; }
+  transition: max-height .5s ease; }
   .reveal .slides section .fragment.appear.current-fragment * {
     max-height: 1000px;
-    transition: max-height 2s; }
+    transition: max-height .5s ease; }
 
 .backgrounds {
   filter: blur(5px) opacity(50%) saturate(30%) brightness(100%) contrast(50%);
