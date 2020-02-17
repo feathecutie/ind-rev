@@ -83,23 +83,23 @@
 
 + starke Verschmutzungen / Verunreinigungen
 
-<span class="fragment appear">
+  <span class="fragment appear">
   
   + Luftverschmutzung durch Dampfmaschinen
   
   + Wasserverschmutzung durch Abwässer
 
-</span>
+  </span>
 
 + Resourcen
 
-<span class="fragment appear">
+  <span class="fragment appear">
   
   + Erzabbau von Eisen für Maschinen
   
   + Plantagen für Textilindustrie
 
-</span>
+  </span>
 
 
 ## Auswirkungen auf die Umwelt
