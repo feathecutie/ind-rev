@@ -164,6 +164,26 @@
 # Technik
 
 
+## Technik
+
+### Situation
+
++ Strukturwandel Agrargesellschaft -> Industriegesellschaft
+
++ immer schneller werdernde Entwicklung
+
++ Dampfmaschine, Fabriken, Verarbeitungsmethoden, ...
+
+
+## Technik
+
+### Auswirkungen auf heute
+
++ Basis moderner Technik
+
++ heutiges Leben ohne Technik unvorstellbar
+
+
 
 # Fazit
 Note:
