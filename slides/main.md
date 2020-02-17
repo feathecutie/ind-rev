@@ -98,13 +98,17 @@
 
 + Sozialversicherungen
 
-<span class="fragment appear">
+  <span class="fragment appear">
 
-|---|---|
-| Krankenversicherung | Unfallversicherung |
-| Invaliditätsversicherung | Alterssicherung |
+  - Krankenversicherung
+
+  - Unfallversicherung
+
+  - Invaliditätsversicherung
+
+  - Alterssicherung
   
-</span>
+  </span>
 
 
 ## Soziales
