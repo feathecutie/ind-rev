@@ -88,10 +88,11 @@
   + Wasserverschmutzung durch Abwässer <!-- .element: class="fragment appear" data-fragment-index="1" -->
 
 + Resourcen
-
+<span class="fragment fade-in">
   + Erzabbau von Eisen für Maschinen
   
   + Plantagen für Textilindustrie
+</span>
 
 
 ## Auswirkungen auf die Umwelt
