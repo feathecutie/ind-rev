@@ -1,3 +1,10 @@
+> "Der Geist der Industrialisierung hat schaffen helfen - und diese Industrialisierung ist zu einer schweren Bedrohung der Freiheit geworden."
+
+  - Walter Eucken
+
+
+
+
 # Industrielle Revolution
 
 > Fort- oder Rückschritt?
