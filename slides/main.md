@@ -1,4 +1,4 @@
-> "Der Geist der Freiheit hat die Industrialisierung hat schaffen helfen - und diese Industrialisierung ist zu einer schweren Bedrohung der Freiheit geworden." - Walter Eucken
+> "Der Geist der Freiheit hat die Industrialisierung schaffen helfen - und diese Industrialisierung ist zu einer schweren Bedrohung der Freiheit geworden." - Walter Eucken
 
 
 
