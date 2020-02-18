@@ -222,13 +222,21 @@ Note:
     +	Klaus-Jürgen Bremm: Das Zeitalter der Industrialisierung, Theiss-Verlag, 2014
     
     +	Dieter Ziegler: Die Industrielle Revolution, WBG-Verlag, 2012
-    
+
+
+## Quellen
+
++ Informationen:
+
   + Internet:
   
     +	https://www.bpb.de/geschichte/deutsche-geschichte/kaiserreich/139649/industrialisierung-und-moderne-gesellschaft, letzter Zugriff: 15.02.2020
     + https://www.planet-schule.de/wissenspool/das-industriezeitalter/inhalt/sendungen/soziale-frage.html, letzter Zugriff: 15.02.2020
     +	https://www.planet-wissen.de/gesellschaft/wirtschaft/industrialisierung_in_deutschland/index.html, letzter Zugriff: 02.02.2020
     +	https://blog.zeit.de/schueler/2014/01/23/industrialisierung-geschichte-revolution, letzter Zugriff: 02.02.2020
+
+
+## Quellen
 
 + Bilder:
 
