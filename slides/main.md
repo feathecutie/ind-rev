@@ -138,7 +138,7 @@
 
   </span>
 
-+ Ressourcen
++ Ressourcengewinnung
 
   <span class="fragment appear">
   
