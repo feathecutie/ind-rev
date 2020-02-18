@@ -146,8 +146,12 @@
   
   + Plantagen für Textilindustrie
 
-  </span>  
+  </span>
 
+
+![](https://upload.wikimedia.org/wikipedia/commons/b/b7/Wyld%2C_William_-_Manchester_from_Kersal_Moor%2C_with_rustic_figures_and_goats_-_Google_Art_Project.jpg) <!-- .element: style="size: 30%;" -->
+
+Manchester from Kersal Moor - William Wyld
 
 ## Umwelt
 
